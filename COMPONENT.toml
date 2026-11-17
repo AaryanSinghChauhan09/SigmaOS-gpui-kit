@@ -3,7 +3,7 @@ name = "SigmaOS-gpui-kit"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gpui-kit component"
+description = "gpui-kit platform GUI toolkit component"
 upstream = []
 
 [contract]
